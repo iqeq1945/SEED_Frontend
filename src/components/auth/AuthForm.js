@@ -6,11 +6,11 @@ import { Link } from 'react-router-dom';
 // 회원가입 로그인 폼
 
 const AuthFormBlock = styled.div`
-h3{
-    margin:0,
+  h3 {
+    margin: 0;
     color: ${palette.gray[8]};
-    margin-bottom:1rem;
-}
+    margin-bottom: 1rem;
+  }
 `;
 
 const StyledInput = styled.input`
